@@ -1,0 +1,44 @@
+﻿  EURO 2024.cpp
+D:\00 ODC\EURO Task\EURO 2024\gnuplot-iostream.h(583,13): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'EURO%202024.cpp')
+  D:\00 ODC\EURO Task\EURO 2024\gnuplot-iostream.h(583,13):
+  the template instantiation context (the oldest one first) is
+  	D:\00 ODC\EURO Task\EURO 2024\gnuplot-iostream.h(578,12):
+  	while compiling class template partial specialization 'gnuplotio::TextSender<T,enable_if<gnuplotio::is_boost_tuple<T,void>,void>::type>'
+  
+D:\00 ODC\EURO Task\EURO 2024\gnuplot-iostream.h(596,13): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'EURO%202024.cpp')
+  D:\00 ODC\EURO Task\EURO 2024\gnuplot-iostream.h(596,13):
+  the template instantiation context (the oldest one first) is
+  	D:\00 ODC\EURO Task\EURO 2024\gnuplot-iostream.h(591,12):
+  	while compiling class template partial specialization 'gnuplotio::BinfmtSender<T,enable_if<gnuplotio::is_boost_tuple<T,void>,void>::type>'
+  
+D:\00 ODC\EURO Task\EURO 2024\gnuplot-iostream.h(609,13): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'EURO%202024.cpp')
+  D:\00 ODC\EURO Task\EURO 2024\gnuplot-iostream.h(609,13):
+  the template instantiation context (the oldest one first) is
+  	D:\00 ODC\EURO Task\EURO 2024\gnuplot-iostream.h(604,12):
+  	while compiling class template partial specialization 'gnuplotio::BinarySender<T,enable_if<gnuplotio::is_boost_tuple<T,void>,void>::type>'
+  
+D:\00 ODC\EURO Task\EURO 2024\EURO 2024.cpp(142,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:             _Ty=__int64
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61): warning C4244:         ]
+  (compiling source file 'EURO%202024.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\utility(278,61):
+  the template instantiation context (the oldest one first) is
+  	D:\00 ODC\EURO Task\EURO 2024\EURO 2024.cpp(109,33):
+  	see reference to function template instantiation 'std::pair<double,int>::pair<double,__int64,0>(std::pair<double,__int64> &&) noexcept' being compiled
+  		D:\00 ODC\EURO Task\EURO 2024\EURO 2024.cpp(109,23):
+  		see the first reference to 'std::pair<double,int>::pair' in 'visualizeMarketValueDistribution'
+  
+D:\00 ODC\EURO Task\EURO 2024\EURO 2024.cpp(212,1): warning C4715: 'clubWithMostPlayers': not all control paths return a value
+  EURO 2024.vcxproj -> D:\00 ODC\EURO Task\EURO 2024\x64\Debug\EURO 2024.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
